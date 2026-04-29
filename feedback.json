@@ -1,0 +1,89 @@
+{
+  "positive_feedback": [
+    {
+      "message_id": "20260131_051724_5",
+      "timestamp": "20260131_052511",
+      "user_query": "what are engage pro services",
+      "assistant_response": "EngagePro's services include reducing workloads for frontline customer service officers and engaging customers dynamically through personalized AI-driven interfaces. We offer a range of benefits to businesses that choose EngagePro, including: \u2022 Expertise in Generative AI \u2022 Holistic Integration with CRMs, knowledge bases, and other enterprise tools \u2022 Tailored Solutions designed to address specific challenges \u2022 Future-Focused solutions that are scalable and adaptable If you'd like more information on these services or have any questions about EngagePro, feel free to ask!",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_051724_5",
+      "timestamp": "20260131_052514",
+      "user_query": "what are engage pro services",
+      "assistant_response": "EngagePro's services include reducing workloads for frontline customer service officers and engaging customers dynamically through personalized AI-driven interfaces. We offer a range of benefits to businesses that choose EngagePro, including: \u2022 Expertise in Generative AI \u2022 Holistic Integration with CRMs, knowledge bases, and other enterprise tools \u2022 Tailored Solutions designed to address specific challenges \u2022 Future-Focused solutions that are scalable and adaptable If you'd like more information on these services or have any questions about EngagePro, feel free to ask!",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_051724_5",
+      "timestamp": "20260131_052516",
+      "user_query": "what are engage pro services",
+      "assistant_response": "EngagePro's services include reducing workloads for frontline customer service officers and engaging customers dynamically through personalized AI-driven interfaces. We offer a range of benefits to businesses that choose EngagePro, including: \u2022 Expertise in Generative AI \u2022 Holistic Integration with CRMs, knowledge bases, and other enterprise tools \u2022 Tailored Solutions designed to address specific challenges \u2022 Future-Focused solutions that are scalable and adaptable If you'd like more information on these services or have any questions about EngagePro, feel free to ask!",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_051724_5",
+      "timestamp": "20260131_052516",
+      "user_query": "what are engage pro services",
+      "assistant_response": "EngagePro's services include reducing workloads for frontline customer service officers and engaging customers dynamically through personalized AI-driven interfaces. We offer a range of benefits to businesses that choose EngagePro, including: \u2022 Expertise in Generative AI \u2022 Holistic Integration with CRMs, knowledge bases, and other enterprise tools \u2022 Tailored Solutions designed to address specific challenges \u2022 Future-Focused solutions that are scalable and adaptable If you'd like more information on these services or have any questions about EngagePro, feel free to ask!",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_051724_5",
+      "timestamp": "20260131_052521",
+      "user_query": "what are engage pro services",
+      "assistant_response": "EngagePro's services include reducing workloads for frontline customer service officers and engaging customers dynamically through personalized AI-driven interfaces. We offer a range of benefits to businesses that choose EngagePro, including: \u2022 Expertise in Generative AI \u2022 Holistic Integration with CRMs, knowledge bases, and other enterprise tools \u2022 Tailored Solutions designed to address specific challenges \u2022 Future-Focused solutions that are scalable and adaptable If you'd like more information on these services or have any questions about EngagePro, feel free to ask!",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_052750_1",
+      "timestamp": "20260131_052826",
+      "user_query": "whaat is debu",
+      "assistant_response": "I am sorry I am not sure about this question. Would you like to ask about something else?",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_052750_1",
+      "timestamp": "20260131_052829",
+      "user_query": "whaat is debu",
+      "assistant_response": "I am sorry I am not sure about this question. Would you like to ask about something else?",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_052750_1",
+      "timestamp": "20260131_052830",
+      "user_query": "whaat is debu",
+      "assistant_response": "I am sorry I am not sure about this question. Would you like to ask about something else?",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_052750_1",
+      "timestamp": "20260131_052831",
+      "user_query": "whaat is debu",
+      "assistant_response": "I am sorry I am not sure about this question. Would you like to ask about something else?",
+      "improvement_note": null
+    },
+    {
+      "message_id": "20260131_052750_1",
+      "timestamp": "20260131_052833",
+      "user_query": "whaat is debu",
+      "assistant_response": "I am sorry I am not sure about this question. Would you like to ask about something else?",
+      "improvement_note": null
+    }
+  ],
+  "negative_feedback": [
+    {
+      "message_id": "20260131_051724_1",
+      "timestamp": "20260131_052117",
+      "user_query": "how old is ngee ann poly",
+      "assistant_response": "I am sorry I am not sure about this question. Would you like to ask about something else?",
+      "improvement_note": "It doesnt work"
+    }
+  ],
+  "improvements": [
+    {
+      "note": "It doesnt work",
+      "timestamp": "20260131_052117"
+    }
+  ]
+}
